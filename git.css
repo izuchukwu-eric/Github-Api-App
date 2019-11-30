@@ -1,0 +1,33 @@
+body{
+    background-image: url(img/image-from-rawpixel-id-270752-jpeg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.hobbs{
+    width: 50rem;
+    height: 20rem;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.shaw{
+    width: 20rem;
+    height: 2rem;
+    border-radius: 2.13rem;
+}
+p{
+    font-family: monospace;
+    color: blue;
+    font-size: 2rem;
+}
+.jeff{
+    width: 10rem;
+    height: 10rem;
+}
+.text{
+    font-family: cursive;
+    font-size: 2rem;
+    color:black;
+}
